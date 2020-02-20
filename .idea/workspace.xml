@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="Eratostenes" targetName="Eratostenes" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="93813155-e4a5-40a5-9ea6-c25419e5af2c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1Y37gffrC4Uxcq9NdQpPDKPra4l" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Eratostenes" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Eratostenes" TARGET_NAME="Eratostenes" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Eratostenes" RUN_TARGET_NAME="Eratostenes">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="93813155-e4a5-40a5-9ea6-c25419e5af2c" name="Default Changelist" comment="" />
+      <created>1582159537137</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582159537137</updated>
+      <workItem from="1582159541535" duration="10159000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="660" y="283" key="#com.intellij.ide.util.MemberChooser" timestamp="1582164609513">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="660" y="283" key="#com.intellij.ide.util.MemberChooser/0.0.1792.1120@0.0.1792.1120" timestamp="1582164609513" />
+    <state width="1750" height="421" key="GridCell.Tab.0.bottom" timestamp="1582174135222">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="421" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1582174135222" />
+    <state width="1750" height="421" key="GridCell.Tab.0.center" timestamp="1582174135221">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="421" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1582174135220" />
+    <state width="1750" height="421" key="GridCell.Tab.0.left" timestamp="1582174135220">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="421" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1582174135220" />
+    <state width="1750" height="421" key="GridCell.Tab.0.right" timestamp="1582174135221">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="421" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1582174135221" />
+    <state width="1750" height="276" key="GridCell.Tab.1.bottom" timestamp="1582174134162">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="276" key="GridCell.Tab.1.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1582174134162" />
+    <state width="1750" height="276" key="GridCell.Tab.1.center" timestamp="1582174134161">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="276" key="GridCell.Tab.1.center/0.0.1792.1120@0.0.1792.1120" timestamp="1582174134161" />
+    <state width="1750" height="276" key="GridCell.Tab.1.left" timestamp="1582174134161">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="276" key="GridCell.Tab.1.left/0.0.1792.1120@0.0.1792.1120" timestamp="1582174134161" />
+    <state width="1750" height="276" key="GridCell.Tab.1.right" timestamp="1582174134162">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="276" key="GridCell.Tab.1.right/0.0.1792.1120@0.0.1792.1120" timestamp="1582174134162" />
+    <state x="556" y="392" key="com.intellij.ide.util.TipDialog" timestamp="1582160091637">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="556" y="392" key="com.intellij.ide.util.TipDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1582160091637" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/ListaCriba.cpp</url>
+          <line>30</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/ListaCriba.cpp</url>
+          <line>31</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

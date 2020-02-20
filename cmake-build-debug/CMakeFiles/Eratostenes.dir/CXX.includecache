@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/rjfm/CLionProjects/Eratostenes/ListaCriba.cpp
+iostream
+-
+ListaCriba.h
+/Users/rjfm/CLionProjects/Eratostenes/ListaCriba.h
+
+/Users/rjfm/CLionProjects/Eratostenes/ListaCriba.h
+Numero.h
+/Users/rjfm/CLionProjects/Eratostenes/Numero.h
+vector
+-
+
+/Users/rjfm/CLionProjects/Eratostenes/Numero.h
+
