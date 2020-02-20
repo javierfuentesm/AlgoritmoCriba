@@ -13,7 +13,7 @@ private:
 public:
     Numero(int num, bool primo = true);
 
-    void setPrimo();
+    void setFalse();
 
     bool getPrimo();
 

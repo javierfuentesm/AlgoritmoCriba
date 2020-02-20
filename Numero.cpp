@@ -10,7 +10,7 @@ bool Numero::getPrimo() {
     return primo;
 }
 
-void Numero::setPrimo() {
+void Numero::setFalse() {
     primo = false;
 }
 

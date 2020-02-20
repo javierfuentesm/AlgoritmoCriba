@@ -31,7 +31,7 @@ void ListaCriba::algoritmo() {
     for (int n = numeros[0].getNumero(); n <= numeros.size()+1; ++n) {
         if (numeros[n-2].getPrimo()) {
             for (int i = (n) * (n); i <= numeros.size()+1; i += (n)) {
-                numeros[i-2].setPrimo();
+                numeros[i - 2].setFalse();
             }
         }
 
