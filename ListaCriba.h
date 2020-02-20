@@ -16,6 +16,7 @@ private:
 public:
     ListaCriba(const std::vector<Numero> &numeros);
     ListaCriba();
+
     void printPrimos();
     void addNumero(int num);
     void algoritmo();
