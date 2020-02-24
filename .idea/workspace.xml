@@ -13,8 +13,6 @@
   <component name="ChangeListManager">
     <list default="true" id="93813155-e4a5-40a5-9ea6-c25419e5af2c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ListaCriba.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/ListaCriba.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ListaCriba.h" beforeDir="false" afterPath="$PROJECT_DIR$/ListaCriba.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
